@@ -1,0 +1,30 @@
+Body{
+    background-color: beige;
+}
+h1{
+    color: darksalmon;
+    font-size:35px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-style: initial;
+    text-align: left;
+    text-decoration: solid;
+}
+p{
+    color:cornflowerblue;
+    font-size: medium;
+    font-family: serif;
+    text-align: justify;
+    line-height: 25xp;
+    letter-spacing: 5px;
+    word-spacing: 1px;
+
+
+}
+footer{
+    color: brown;
+    font-size: medium;
+    font-weight: lighter;
+    background-color: dodgerblue;
+    text-align: justify;
+}
